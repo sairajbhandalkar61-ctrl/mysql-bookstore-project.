@@ -1,0 +1,7 @@
+CREATE DATABASE project;
+DROP TABLE IF EXISTS `books`;
+CREATE TABLE `books` (
+CREATE TABLE publisher (
+CREATE TABLE categories (
+DROP TABLE books;
+CREATE TABLE books (
